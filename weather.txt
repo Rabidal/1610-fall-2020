@@ -3,3 +3,4 @@ slightly cloudy 84 degrees   8/26
 slightly cloudy 80 degrees   8/27
 sunny 96 degrees                 8/28
 sunny 98 degrees "way to hot to live"  8/29
+sunny 83 degrees                  8/30
