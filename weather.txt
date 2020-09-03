@@ -7,3 +7,4 @@ sunny 83 degrees                  8/30
 slightly cloudy 76 degrees    8/31
 slightly cloudy 76 degrees    9/1
 way too sunny 82 degrees    9/2
+I havent left my house so 73 degrees  9/3
