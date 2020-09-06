@@ -6,7 +6,9 @@
     <e p="C:\Users\rache\Downloads\1610 fall 2020\Cyborg shrimp" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="MoverScript.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="MoverScript.cs" t="Include" />
+        </e>
       </e>
       <e p="Cyborg shrimp.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
