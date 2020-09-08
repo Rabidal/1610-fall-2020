@@ -28,10 +28,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacteMover.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/MoverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacteMover.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599285410924</updated>
       <workItem from="1599285426310" duration="712000" />
-      <workItem from="1599416639071" duration="1984000" />
+      <workItem from="1599416639071" duration="2621000" />
+      <workItem from="1599492292060" duration="2622000" />
     </task>
     <servers />
   </component>
