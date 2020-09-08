@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class CharacterMover : MonoBehaviour
 {
+    public float speed = 3f;
+    public float x, y, z;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +15,9 @@ public class CharacterMover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0.1f * Time.deltaTime,0,0);
+        x = speed*Input.GetAxis("Horizontal") * Time.deltaTime;
+        y = speed*Input.GetAxis("Vertical") * Time.deltaTime;
+        transform.Translate(x,y,z);
     }
 }
 
