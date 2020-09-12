@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoverScript : MonoBehaviour
+public class MoverSciprt : MonoBehaviour
 {
+    public float speed = 3f;
+    public float x, y, z;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +15,13 @@ public class MoverScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0.1f * Time.deltaTime,0,0);
+        x = speed*Input.GetAxis("Horizontal") * Time.deltaTime;
+        y = speed*Input.GetAxis("Vertical") * Time.deltaTime;
+        transform.Translate(x,y,z);
+    }
+
+    public void Up()
+    {
+        transform.Translate(x:0,y:speed,z:0);
     }
 }

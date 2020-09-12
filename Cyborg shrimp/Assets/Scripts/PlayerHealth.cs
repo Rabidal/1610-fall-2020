@@ -1,18 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿
+using System;
 using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public float speed = 5f;
+    public int score = 100;
+    private void Update()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        var vInput = speed * Time.deltaTime * Input.GetAxis("Vertical");
+        var hInput = speed * Time.deltaTime * Input.GetAxis("Horizontal");
+        transform.Translate(hInput,vInput,0);
     }
 }

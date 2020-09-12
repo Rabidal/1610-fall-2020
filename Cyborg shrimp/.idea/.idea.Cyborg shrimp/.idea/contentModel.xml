@@ -11,6 +11,7 @@
           <e p="MoverScript.cs" t="Include" />
           <e p="PlayerHealth.cs" t="Include" />
           <e p="PlayerScore.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
         </e>
       </e>
       <e p="Cyborg shrimp.sln" t="IncludeFlat" />

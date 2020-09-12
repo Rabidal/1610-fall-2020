@@ -34,8 +34,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoverScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacteMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoverScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
       </list>
     </option>
   </component>
@@ -88,6 +90,7 @@
       <workItem from="1599285426310" duration="712000" />
       <workItem from="1599416639071" duration="2621000" />
       <workItem from="1599492292060" duration="3585000" />
+      <workItem from="1599773111801" duration="6829000" />
     </task>
     <servers />
   </component>
