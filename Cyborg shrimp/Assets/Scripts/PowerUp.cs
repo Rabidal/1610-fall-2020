@@ -5,8 +5,10 @@ using UnityEngine;
 
 public class PowerUp : MonoBehaviour
 {
+  public int score;
   private void OnTriggerEnter(Collider other)
   {
-    print(message:"Trigger");
+    score++;  
+    print(score);  
   }
 }
