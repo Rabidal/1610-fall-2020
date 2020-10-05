@@ -13,6 +13,7 @@
         </e>
         <e p="scripts" t="Include">
           <e p="DestroyOutOfBounds.cs" t="Include" />
+          <e p="DetectCollisions.cs" t="Include" />
           <e p="MoveForward.cs" t="Include" />
           <e p="PlayerControler.cs" t="Include" />
           <e p="SpawnManager.cs" t="Include" />

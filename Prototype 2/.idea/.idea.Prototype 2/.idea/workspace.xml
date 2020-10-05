@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/DetectCollisions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DestroyOutOfBounds.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -22,6 +23,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/PlayerControler.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/DestroyOutOfBounds.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/DetectCollisions.cs" />
       </list>
     </option>
   </component>
@@ -71,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601441507164</updated>
-      <workItem from="1601441516146" duration="6495000" />
+      <workItem from="1601441516146" duration="11682000" />
     </task>
     <servers />
   </component>
