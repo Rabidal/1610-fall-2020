@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01e80ff3-312b-41e2-a28c-42733b099aff" name="Default Changelist" comment="" />
+    <list default="true" id="08c0e3a5-fac3-481d-a434-c9f9b61fb82d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,22 +28,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RepeatBackground.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/RepeatBackground.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MoveLeft.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1icgzqq4q6L2yqW9gZZSa0zhwTO" />
+  <component name="ProjectId" id="1k8KxXLV9ynp85r3zK9aEmbmTku" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -84,13 +77,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01e80ff3-312b-41e2-a28c-42733b099aff" name="Default Changelist" comment="" />
-      <created>1602212559720</created>
+      <changelist id="08c0e3a5-fac3-481d-a434-c9f9b61fb82d" name="Default Changelist" comment="" />
+      <created>1605077031429</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602212559720</updated>
-      <workItem from="1602212565821" duration="8020000" />
-      <workItem from="1603389479701" duration="2349000" />
+      <updated>1605077031429</updated>
+      <workItem from="1605077050436" duration="1810000" />
     </task>
     <servers />
   </component>
@@ -109,7 +101,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
