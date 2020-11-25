@@ -36,9 +36,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605077031429</updated>
       <workItem from="1605077050436" duration="6034000" />
-      <workItem from="1605842851308" duration="2316000" />
+      <workItem from="1605842851308" duration="6701000" />
     </task>
     <servers />
   </component>
@@ -112,5 +112,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2308" y="166" key="#Notifications" timestamp="1606274975399">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2308" y="166" key="#Notifications/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1606274975399" />
   </component>
 </project>
