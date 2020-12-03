@@ -34,8 +34,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Target.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Target.cs" />
       </list>
     </option>
   </component>
@@ -85,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606540363315</updated>
-      <workItem from="1606540379573" duration="4892000" />
+      <workItem from="1606540379573" duration="7229000" />
     </task>
     <servers />
   </component>
