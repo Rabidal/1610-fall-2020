@@ -10,6 +10,7 @@ public class PlayerController : MonoBehaviour
     public bool facingRight = true;
     public Rigidbody2D rigidbody2d;
     public float moveX;
+    public bool isGrounded;
     // Start is called before the first frame update
     void Start()
     {
@@ -60,4 +61,6 @@ public class PlayerController : MonoBehaviour
          localScale.x *= -1;
          transform.localScale = localScale;
      }
+     
+    
 }

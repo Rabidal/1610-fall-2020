@@ -29,7 +29,6 @@ public class PlayerHealth : MonoBehaviour
         {
             SceneManager.LoadScene("First");
             yield return null;
-
         }
     }
 }
