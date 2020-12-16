@@ -10,9 +10,11 @@
           <e p="Astronaut" t="Include">
             <e p="Scripts" t="Include">
               <e p="EnemyController.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
               <e p="PlayerController.cs" t="Include" />
               <e p="PlayerHealth.cs" t="Include" />
               <e p="Score.cs" t="Include" />
+              <e p="Targets.cs" t="Include" />
             </e>
           </e>
         </e>

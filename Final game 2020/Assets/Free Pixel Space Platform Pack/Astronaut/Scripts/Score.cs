@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -11,6 +12,7 @@ public class Score : MonoBehaviour
     public int playerScore = 0;
     public GameObject timeLeftUI;
     public GameObject playerScoreUI;
+    
     
     void Update()
     {
@@ -33,5 +35,12 @@ public class Score : MonoBehaviour
      {
          playerScore = (int) (playerScore + (_timeLeft * 10));
          Debug.Log(playerScore);
+     }
+
+     private void OnTriggerEnter(Collider other)
+     { 
+         Destroy(gameObject);
+         playerScore++;
+         print(playerScore);
      }
 }
